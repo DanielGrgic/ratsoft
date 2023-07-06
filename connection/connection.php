@@ -1,6 +1,6 @@
 <?php
-$serverName = "184.154.5.218\MSSQLSERVER2014"; //serverName\instanceName
-$connectionInfo = array( "Database"=>"rms", "UID"=>"sparksystems", "PWD"=>"prZ#2e74");
+$serverName = ""; //serverName\instanceName
+$connectionInfo = array( "Database"=>"", "UID"=>"", "PWD"=>"");
 $conn = sqlsrv_connect( $serverName, $connectionInfo);
 
 if( $conn ) {
