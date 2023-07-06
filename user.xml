@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xml>
+  <user>
+    <error>0</error>
+    <result>success</result>
+    <id>1</id>
+    <username>admin</username>
+    <email>info@ratsoft.tech</email>
+    <password>ratsoft@123</password>
+    <active>1</active>
+    <updatedate>Sat, 29 Apr 2023 06:48:02 +0200</updatedate>
+    <lastloginip/>
+  </user>
+</xml>
